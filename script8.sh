@@ -12,5 +12,6 @@ then
         echo "Value is 100"
 else
         echo "Value is not 100"
+	echo "Value is not equal to 100"
 
 fi
